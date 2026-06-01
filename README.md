@@ -2,7 +2,7 @@
 This project analyzes a dataset of 1,000 customers to uncover the key factors driving bicycle purchases. By performing extensive data cleaning, constructing robust Pivot Tables, and designing an interactive Excel Dashboard, this project provides actionable insights into customer demographics, income levels, and commuting habits to help target marketing campaigns more effectively.
 
 📊 Key Insights
-The Sweet Spot: Middle-aged customers (35–54) represent the highest volume of bike buyers.
+The Sweet Spot: Middle-aged customers (31–54) represent the highest volume of bike buyers.
 
 Income Matters: Customers who purchased bikes have a significantly higher average income than non-buyers across both genders.
 

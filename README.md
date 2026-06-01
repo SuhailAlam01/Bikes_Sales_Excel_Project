@@ -18,7 +18,7 @@ Marital Status & Gender: Used Find and Replace to change short codes (M/S and M/
 
 Income Formatting: Converted the income column to currency format and removed unnecessary decimals.
 
-Age Brackets: Created a new Age Brackets column using a nested IF formula to segment customers into logical groups: =IF(A2>54, "Senior", IF(A2>=35, "Middle Age", "Young"))
+Age Brackets: Created a new Age Brackets column using a nested IF formula to segment customers into logical groups
 
 🗂️ 2. Pivot Table Architecture
 To extract specific metrics from the cleaned data, a series of tailored pivot tables were constructed to drive the dashboard visuals:
